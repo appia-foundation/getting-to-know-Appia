@@ -30,6 +30,12 @@ mkdocs serve
 
 Then open [http://localhost:8000](http://localhost:8000).
 
+### Deployment
+
+`.github/workflows/deploy.yml` builds the site with `mkdocs build` and publishes it to GitHub
+Pages via `actions/deploy-pages` on every push to `main`. This requires a one-time repo setting:
+in **Settings → Pages**, set **Source** to **GitHub Actions**.
+
 ## Contributing
 
 Contributions are encouraged and welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
