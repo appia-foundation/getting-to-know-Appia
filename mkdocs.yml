@@ -49,6 +49,8 @@ extra_css:
 extra:
   generator: false
   copyright: Copyright &copy; 2026 Appia Foundation
+  # Overrides the header logo/title link target (defaults to the site's own homepage).
+  homepage: https://appiafoundation.org/
 
 plugins:
   - search

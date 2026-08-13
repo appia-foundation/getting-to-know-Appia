@@ -11,7 +11,7 @@ this page.
 ```mermaid
 flowchart TD
     JDF["Joint Development Foundation Projects, LLC (JDF)"]
-    APPIA["Appia project"]
+    APPIA["Appia Foundation"]
     SC["Steering Committee"]
     ARCH["Architecture and Foundational\nSpecifications Working Group"]
     EUAI["EU AI Act subgroup"]
@@ -24,8 +24,8 @@ flowchart TD
     SC --> MKT
     SC -.->|advisory input, no vote| ADV
 
-    classDef solidNode fill:#0B2545,color:#fff,stroke:#0B2545;
-    classDef advisoryNode fill:#fff,color:#0B2545,stroke:#0B2545,stroke-dasharray: 4 3;
+    classDef solidNode fill:#8FADDE,color:#1A2657,stroke:#233474,stroke-width:1px;
+    classDef advisoryNode fill:#fff,color:#233474,stroke:#233474,stroke-dasharray: 4 3;
     class JDF,APPIA,SC,ARCH,EUAI,MKT solidNode;
     class ADV advisoryNode;
 ```
