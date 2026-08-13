@@ -100,18 +100,20 @@ vote, and sits outside the chain above.
 
     None of this is the full text — see below for where to read the actual terms.
 
-## Where to find the exact terms
+<a id="where-to-find-the-exact-terms"></a>
 
-This page is an orientation, not a substitute for the governing documents. For the precise,
-binding language, see:
+??? note "Where to find the exact terms"
 
-- **Project Charter** — establishes the Steering Committee, membership levels, and
-  decision-making rules.
-- **Working Group Charter** — establishes each Working Group's scope and the copyright/patent
-  choices summarized above.
-- **Appendix A: Traditional Mode Governance** — the full decision-making and appeals process.
-- **Appendix B: Traditional Mode Intellectual Property Policy Options** — the full copyright and
-  patent terms.
+    This page is an orientation, not a substitute for the governing documents. For the precise,
+    binding language, see:
 
-<!-- TODO: content pending — link the documents above once they have a stable published
-     location (e.g. a docs page or repo folder for the executed charter package). -->
+    - **Project Charter** — establishes the Steering Committee, membership levels, and
+      decision-making rules.
+    - **Working Group Charter** — establishes each Working Group's scope and the copyright/patent
+      choices summarized above.
+    - **Appendix A: Traditional Mode Governance** — the full decision-making and appeals process.
+    - **Appendix B: Traditional Mode Intellectual Property Policy Options** — the full copyright
+      and patent terms.
+
+    <!-- TODO: content pending — link the documents above once they have a stable published
+         location (e.g. a docs page or repo folder for the executed charter package). -->
