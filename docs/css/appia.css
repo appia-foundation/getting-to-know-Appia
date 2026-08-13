@@ -1,13 +1,12 @@
 /*
-  Placeholder Appia Foundation palette for Material for MkDocs.
-  Approximate hex values from the branding notes (navy wordmark; triangular
-  tri-color mark in teal / orange / navy; blue -> white/cream -> orange -> teal
-  gradient). TODO: replace with confirmed brand hex values.
+  Appia Foundation palette for Material for MkDocs.
+  Hex values sampled directly from the official logo (navy wordmark; triangular
+  mark in teal / orange / navy / light blue).
 */
 [data-md-color-scheme="appia"] {
-  --md-primary-fg-color: #0B2545;
-  --md-primary-fg-color--light: #14345E;
-  --md-primary-fg-color--dark: #081A33;
+  --md-primary-fg-color: #233474;
+  --md-primary-fg-color--light: #3A4C8F;
+  --md-primary-fg-color--dark: #1A2657;
   --md-primary-bg-color: #FDFBF6;
-  --md-accent-fg-color: #F2994A;
+  --md-accent-fg-color: #EDB46A;
 }
