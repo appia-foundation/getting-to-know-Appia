@@ -2,12 +2,16 @@
 
 Logo and image assets for the site.
 
-`appia-logo.svg` is a **placeholder** built from the branding notes in the onboarding site
-setup brief (gradient blue → white/cream → orange → teal; navy wordmark; triangular tri-color
-mark in teal / orange / navy). Confirm with the Appia team whether an official logo SVG already
-exists, and replace this placeholder with it before launch.
+- `appia-logo.png` — the full Appia Foundation lockup (triangular mark + "Appia Foundation"
+  wordmark), used at the top of this README.
+- `appia-mark.png` — the triangular mark alone, cropped from the lockup and padded to a square
+  canvas, used as the site's header logo (`theme.logo` in `mkdocs.yml`).
+
+Both are raster exports of the official logo (black on transparent background). If a vector
+(SVG) source or a light/white variant for dark backgrounds becomes available, replace these with
+it.
 
 This folder is the source of truth for brand assets (e.g. for rendering in this README). MkDocs
-only copies files under `docs_dir` into the built site, so a copy also lives at
-`docs/assets/appia-logo.svg` for the theme's `logo`/`favicon` config in `mkdocs.yml` — keep the
-two in sync when the real logo is added.
+only copies files under `docs_dir` into the built site, so copies also live at
+`docs/assets/appia-mark.png` and `docs/assets/favicon.png` (a smaller export of the mark) for the
+theme's `logo`/`favicon` config in `mkdocs.yml` — keep these in sync if the source logo changes.

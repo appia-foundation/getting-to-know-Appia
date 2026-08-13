@@ -1,4 +1,4 @@
-<p align="center" width="100%"><img src="assets/appia-logo.svg" width="320" alt="Appia Foundation logo"/><br/><br/></p>
+<p align="center" width="100%"><img src="assets/appia-logo.png" width="400" alt="Appia Foundation logo"/><br/><br/></p>
 
 # Appia Foundation — Operations
 

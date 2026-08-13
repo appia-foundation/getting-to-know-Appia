@@ -28,8 +28,8 @@ theme:
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
-  logo: assets/appia-logo.svg
-  favicon: assets/appia-logo.svg
+  logo: assets/appia-mark.png
+  favicon: assets/favicon.png
   palette:
     scheme: appia
 
