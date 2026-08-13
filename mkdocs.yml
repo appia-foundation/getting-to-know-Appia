@@ -1,5 +1,6 @@
 site_name: Appia Foundation — Operations
 site_description: Member onboarding and operations site for the Appia Foundation
+site_url: https://onboarding.appiafoundation.org/
 docs_dir: docs
 repo_url: https://github.com/appia-foundation/getting-to-know-appia
 repo_name: appia-foundation/getting-to-know-appia

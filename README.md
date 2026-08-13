@@ -8,10 +8,10 @@ within Appia.
 
 Appia is building the connecting layer for trustworthy AI — a conformity chain and
 specifications model that lets organizations demonstrate, in practice, that their AI systems
-meet the obligations placed on them.
+meet the obligations placed on them. Find out more at
+[https://appiafoundation.org/](https://appiafoundation.org/).
 
-<!-- TODO: link the Appia Foundation homepage once the public URL is confirmed -->
-
+This site is published at [onboarding.appiafoundation.org](https://onboarding.appiafoundation.org/).
 
 ## Site
 
@@ -35,6 +35,13 @@ Then open [http://localhost:8000](http://localhost:8000).
 `.github/workflows/deploy.yml` builds the site with `mkdocs build` and publishes it to GitHub
 Pages via `actions/deploy-pages` on every push to `main`. This requires a one-time repo setting:
 in **Settings → Pages**, set **Source** to **GitHub Actions**.
+
+The site uses the custom domain `onboarding.appiafoundation.org` (see `docs/CNAME`). To finish
+wiring that up:
+
+- Add a DNS **CNAME** record: `onboarding.appiafoundation.org` → `appia-foundation.github.io`
+- In **Settings → Pages → Custom domain**, enter `onboarding.appiafoundation.org` and enable
+  **Enforce HTTPS** once the certificate is issued
 
 ## Contributing
 
