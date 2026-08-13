@@ -1,0 +1,13 @@
+/*
+  Placeholder Appia Foundation palette for Material for MkDocs.
+  Approximate hex values from the branding notes (navy wordmark; triangular
+  tri-color mark in teal / orange / navy; blue -> white/cream -> orange -> teal
+  gradient). TODO: replace with confirmed brand hex values.
+*/
+[data-md-color-scheme="appia"] {
+  --md-primary-fg-color: #0B2545;
+  --md-primary-fg-color--light: #14345E;
+  --md-primary-fg-color--dark: #081A33;
+  --md-primary-bg-color: #FDFBF6;
+  --md-accent-fg-color: #F2994A;
+}
