@@ -20,9 +20,10 @@ where it lives at each stage, who can merge, and what happens when a change is p
             it must live in the Appia Google Drive so any member can access what's been raised,
             not just those who were in the room or on the thread.
 
-            If you don't have access to the Appia Google Drive, contact the Slack help desk
-            channel or email [helpdesk@appiafoundation.org](mailto:helpdesk@appiafoundation.org)
-            — you'll get a response either way.
+            If you don't have access to the Appia Google Drive, contact the
+            [Slack help desk channel](https://appia-project.slack.com/archives/C0ARD1X091D) or
+            email [helpdesk@appiafoundation.org](mailto:helpdesk@appiafoundation.org) — you'll
+            get a response either way.
 
     - Once a **baseline is agreed**, the content is decoupled from Google Docs and moved into
       **GitHub**, where it's maintained in Markdown
