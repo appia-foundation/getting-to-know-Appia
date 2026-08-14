@@ -34,6 +34,26 @@ to expect.
         [:fontawesome-brands-x-twitter: X (Twitter)](https://x.com/appiafoundation){ .md-button }
         [:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/company/appia-foundation/){ .md-button }
 
+??? note "Getting up to speed in a working group"
+
+    Once you've joined a working group, several resources help you understand where the group
+    stands technically and get oriented on current activity:
+
+    - **Meeting minutes** — each working group's GitHub repository contains a `meetings` folder
+      with meeting minutes. Review these to catch up on previous discussions, decisions, and
+      technical topics covered.
+    - **README file** — kept up to date for each repository, giving new members a current
+      snapshot of where the project stands technically.
+    - **Issues and pull requests** — found within each GitHub repository, these illustrate the
+      working group's current activity, open questions, and work in progress.
+    - **Pinned Slack documents** — each working group's Slack channel has key documents pinned at
+      the top, including links to the associated Google Drive, giving access to documents that
+      have previously been, and are currently being, discussed.
+
+    Together, these resources help new members quickly understand where information lives, where
+    the working group is technically, and what's currently in progress — reducing unfamiliarity
+    when joining ongoing collaboration.
+
 ## Working groups & meeting cadence
 
 | Group | Cadence | On the onboarding form? |
