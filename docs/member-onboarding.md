@@ -54,6 +54,57 @@ to expect.
     the working group is technically, and what's currently in progress — reducing unfamiliarity
     when joining ongoing collaboration.
 
+??? note "Governance breakdown"
+
+    **Reporting structure**
+
+    Appia sits under the Linux Foundation's Joint Development Foundation (JDF), which hosts it as
+    an independent project series — JDF confirms Appia's activities align with its non-profit
+    status but doesn't direct day-to-day work. From there, authority flows:
+
+    - **Steering Committee** — governs the project and approves Final Deliverables; each Steering
+      Member designates one representative
+        - **Architecture and Foundational Specifications Working Group** — develops Appia's
+          overall architecture and specifications, reporting to the Steering Committee
+            - **EU AI Act sub-working group** — reports into the Architecture working group;
+              aligns Appia's specifications with EU AI Act requirements
+        - **Marketing committee** — operates as an extension of the Steering Committee under a
+          mandate the Steering Committee approves
+        - **Advisory board** — provides advisory input only (no vote); sits outside the formal
+          reporting line rather than underneath the Steering Committee
+
+    **Membership levels**
+
+    - **Steering Member** — participates in every Working Group; designates a representative to
+      the Steering Committee (unless waived)
+    - **General Member** — participates in every Working Group, but not on the Steering Committee
+    - **Contributor Member** — participates in specific Working Group(s) designated by the
+      Steering Committee; not on the Steering Committee and not eligible for Supermajority votes
+    - **Working Group Participant** — any Member who has joined a Working Group; carries the
+      copyright and patent commitments tied to contribution
+
+    **How decisions get made**
+
+    - Decisions are sought first by **Consensus** (general agreement, not necessarily unanimous)
+    - If Consensus isn't reached, it moves to a **Supermajority Vote** (at least 75% of Active
+      Voting Members in favor)
+    - For specifications: a Draft Deliverable is Working Group Approved, then — no sooner than 30
+      days later — the Steering Committee approves it as a **Final Deliverable**
+    - Procedural appeals must be filed within 30 days and are resolved within 90
+
+    **IP framework (brief)**
+
+    - **Copyright** — contributors grant the project a royalty-free license; published
+      deliverables are released under Creative Commons Attribution-NoDerivatives 4.0
+      International (unless the Steering Committee designates otherwise)
+    - **Patents** — Final Deliverables follow the Common Patent Policy model used by
+      ITU-T/ITU-R/ISO/IEC, adapted for Appia, with a standard 30-day window to exclude specific
+      patent claims
+
+    *This is a plain-language orientation, not the governing text. For binding terms, see the
+    Project Charter, Working Group Charter, and Appendices A & B. For the full breakdown,
+    including a diagram of the reporting structure, see the [Governance](governance.md) page.*
+
 ## Working groups & meeting cadence
 
 | Group | Cadence | On the onboarding form? |
