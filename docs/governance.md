@@ -34,24 +34,24 @@ flowchart TD
 is not** — the Advisory board brings outside perspective into the work but isn't a Member, has no
 vote, and sits outside the chain above.
 
-### Governance breakdown
+??? note "Governance breakdown"
 
-- **Joint Development Foundation Projects, LLC (JDF)** hosts Appia as an independent project
-  series. JDF's role is limited to confirming Appia's activities conform with JDF's non-profit
-  status and policies — it doesn't direct Appia's day-to-day work.
-- **Appia project** is the project series itself, established under the JDF Project Charter.
-- **Steering Committee** governs the project and approves Final Deliverables. Each Steering
-  Member designates one participant to sit on it.
-- **Architecture and Foundational Specifications Working Group** develops Appia's overall
-  architecture and related specifications, reporting to the Steering Committee.
-- **EU AI Act subgroup** is a sub-working group reporting into the Architecture working group,
-  focused on aligning Appia's specifications with EU AI Act requirements.
-- **Marketing committee** functions as an extension of the Steering Committee, operating under
-  its own mandate as approved by the Steering Committee — it doesn't have a separate charter of
-  its own.
-- **Advisory board** brings academia, government, and civil-society perspectives into the work.
-  It's non-member and has no vote — it sits outside the formal reporting line shown above, not
-  underneath the Steering Committee.
+    - **Joint Development Foundation Projects, LLC (JDF)** hosts Appia as an independent project
+      series. JDF's role is limited to confirming Appia's activities conform with JDF's
+      non-profit status and policies — it doesn't direct Appia's day-to-day work.
+    - **Appia project** is the project series itself, established under the JDF Project Charter.
+    - **Steering Committee** governs the project and approves Final Deliverables. Each Steering
+      Member designates one participant to sit on it.
+    - **Architecture and Foundational Specifications Working Group** develops Appia's overall
+      architecture and related specifications, reporting to the Steering Committee.
+    - **EU AI Act subgroup** is a sub-working group reporting into the Architecture working
+      group, focused on aligning Appia's specifications with EU AI Act requirements.
+    - **Marketing committee** functions as an extension of the Steering Committee, operating
+      under its own mandate as approved by the Steering Committee — it doesn't have a separate
+      charter of its own.
+    - **Advisory board** brings academia, government, and civil-society perspectives into the
+      work. It's non-member and has no vote — it sits outside the formal reporting line shown
+      above, not underneath the Steering Committee.
 
 ??? note "Who's who"
 
