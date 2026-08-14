@@ -29,11 +29,26 @@ where it lives at each stage, who can merge, and what happens when a change is p
       **GitHub**, where it's maintained in Markdown
       ([Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)).
 
-??? note "Roles & merge access"
+??? note "Working in GitHub"
 
-    - The **Chair**, **Vice Chair**, and **Editor** hold admin access to each repository.
-    - They are the only roles that can merge into the development branch, and later into `main`
-      once the working group agrees to tag a new version.
+    GitHub access is based on **appointed role**, not membership tier — a Steering, General, or
+    Contributor Member is treated the same way unless they hold one of the appointed roles below.
+    This keeps the baseline protected from unintended changes while keeping the process fully
+    open for everyone to view, discuss, and propose.
+
+    - **Maintainer access** — held by the **Chair**, **Vice Chair**, and **Editor** of a working
+      group
+        - Manages day-to-day repository flow, including reviewing and merging pull requests into
+          the development branch
+        - The **Chair** merges into the production/`main` branch once the working group has
+          approved a baseline
+    - **Read access** — held by all other members, regardless of membership level (Steering,
+      General, or Contributor)
+        - Allows members to view repositories, open and comment on issues, and open and comment
+          on pull requests
+        - Restricting merge rights to appointed roles safeguards the baseline from unwanted or
+          premature changes, and ensures anything merged has gone through the working group's
+          consensus process
 
 ??? note "The review & approval process"
 
