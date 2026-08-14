@@ -34,6 +34,8 @@ flowchart TD
 is not** — the Advisory board brings outside perspective into the work but isn't a Member, has no
 vote, and sits outside the chain above.
 
+### Governance breakdown
+
 - **Joint Development Foundation Projects, LLC (JDF)** hosts Appia as an independent project
   series. JDF's role is limited to confirming Appia's activities conform with JDF's non-profit
   status and policies — it doesn't direct Appia's day-to-day work.
