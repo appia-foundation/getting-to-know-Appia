@@ -7,6 +7,23 @@ where it lives at each stage, who can merge, and what happens when a change is p
 
     - **Google Docs** is where working groups and sub-groups brainstorm — drafting ideas,
       fleshing out thoughts, and shaping early proposals.
+
+        !!! warning "Hosting requirement"
+
+            Any Google Doc created for Appia collaboration must be hosted in the appropriate
+            **Appia Google Drive** — not on a member's local drive or personal account. Each
+            working group has its own designated area within the Drive, with a naming schema
+            members are asked to follow. This keeps collaboration open to all members and
+            removes any barrier to entry that comes with content sitting outside shared space.
+
+            This applies to **any document** discussed in meetings or circulated by email too —
+            it must live in the Appia Google Drive so any member can access what's been raised,
+            not just those who were in the room or on the thread.
+
+            If you don't have access to the Appia Google Drive, contact the Slack help desk
+            channel or email [helpdesk@appiafoundation.org](mailto:helpdesk@appiafoundation.org)
+            — you'll get a response either way.
+
     - Once a **baseline is agreed**, the content is decoupled from Google Docs and moved into
       **GitHub**, where it's maintained in Markdown
       ([Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)).
