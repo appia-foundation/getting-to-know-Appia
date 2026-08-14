@@ -6,11 +6,13 @@ to expect.
 
 ## Onboarding steps
 
-1. **Complete the onboarding registration form.**
+1. **Complete the [onboarding registration form](https://docs.google.com/forms/d/e/1FAIpQLSfcTkWfSapd-tH2NHtt_RIRGFlamI57BvvajEUAxefLsXmirQ/viewform?usp=sharing).**
    Use a work domain email address — the form won't accept personal email addresses. As part of
    the form, select the working group(s) you'd like to collaborate with. (The Steering Committee
    isn't a selectable option here — see [Working groups & meeting cadence](#working-groups-meeting-cadence)
    below.)
+
+    [Open the registration form :octicons-arrow-right-24:](https://docs.google.com/forms/d/e/1FAIpQLSfcTkWfSapd-tH2NHtt_RIRGFlamI57BvvajEUAxefLsXmirQ/viewform?usp=sharing){ .md-button .md-button--primary }
 
 2. **Receive working group invitations.**
    Based on the working group(s) you selected, you'll be invited to join them.
