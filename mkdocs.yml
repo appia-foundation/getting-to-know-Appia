@@ -36,8 +36,12 @@ theme:
 markdown_extensions:
   - toc:
       toc_depth: 2
+  - attr_list
   - admonition
   - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -55,6 +59,13 @@ extra:
   copyright: Copyright &copy; 2026 Appia Foundation
   # Overrides the header logo/title link target (defaults to the site's own homepage).
   homepage: https://appiafoundation.org/
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/appiafoundation
+      name: Appia Foundation on X
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/appia-foundation/
+      name: Appia Foundation on LinkedIn
 
 plugins:
   - search
