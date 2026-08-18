@@ -4,9 +4,9 @@
 
 This repository is the source for the Appia Foundation's member onboarding site: governance,
 member onboarding steps, and day-to-day collaboration norms for people joining and working
-within Appia.
+within the Appia Foundation.
 
-Appia is building the connecting layer for trustworthy AI — a conformity chain and
+The Appia Foundation is building the connecting layer for trustworthy AI — a conformity chain and
 specifications model that lets organizations demonstrate, in practice, that their AI systems
 meet the obligations placed on them. Find out more at
 [https://appiafoundation.org/](https://appiafoundation.org/).

@@ -10,8 +10,9 @@ where it lives at each stage, who can merge, and what happens when a change is p
 
         !!! warning "Hosting requirement"
 
-            Any Google Doc created for Appia collaboration must be hosted in the appropriate
-            **Appia Google Drive** — not on a member's local drive or personal account. Each
+            Any Google Doc created for Appia Foundation collaboration must be hosted in the
+            appropriate **Appia Google Drive** — not on a member's local drive or personal
+            account. Each
             working group has its own designated area within the Drive, with a naming schema
             members are asked to follow. This keeps collaboration open to all members and
             removes any barrier to entry that comes with content sitting outside shared space.
@@ -83,4 +84,5 @@ where it lives at each stage, who can merge, and what happens when a change is p
         Discussion -- Update PR --> Merge
     ```
 
-<!-- TODO: content pending — repository structure/layout conventions across Appia's GitHub orgs. -->
+<!-- TODO: content pending — repository structure/layout conventions across the Appia
+     Foundation's GitHub orgs. -->

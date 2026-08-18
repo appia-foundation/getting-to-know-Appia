@@ -3,7 +3,8 @@
 This document explains the general requirements on contributions to this site and the
 recommended preparation steps. It also sketches the typical integration process.
 
-<!-- TODO: content pending — replace with Appia's actual contribution workflow once confirmed -->
+<!-- TODO: content pending — replace with the Appia Foundation's actual contribution workflow
+     once confirmed -->
 
 ## New Content
 
