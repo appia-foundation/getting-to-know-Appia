@@ -114,9 +114,9 @@ vote, and sits outside the chain above.
 
 ??? note "Where to find the exact terms"
 
-    This page is an orientation, not a substitute for the governing documents. For the precise,
-    binding language, see the executed
-    [Membership Agreement Package](https://github.com/appia-foundation/membership-agreement-and-WG-charter):
+    This page is an orientation, not a substitute for the governing documents. Refer to the
+    [Membership Agreement Package](https://github.com/appia-foundation/membership-agreement-and-WG-charter)
+    for the exact, legally binding language:
 
     - **[Project Charter](https://github.com/appia-foundation/membership-agreement-and-WG-charter#2-project-charter)**
       — establishes the Steering Committee, membership levels, and decision-making rules.
