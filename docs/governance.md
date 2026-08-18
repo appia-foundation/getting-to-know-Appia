@@ -15,7 +15,7 @@ flowchart TD
     SC["Steering Committee"]
     ARCH["Architecture and Foundational\nSpecifications Working Group"]
     EUAI["EU AI Act subgroup"]
-    MKT["Marketing committee"]
+    MKT["Communications, Marketing, and\nMessaging Subcommittee (CMM)"]
     ADV["Advisory board"]
 
     JDF --> APPIA --> SC
@@ -47,14 +47,14 @@ vote, and sits outside the chain above.
       architecture and related specifications, reporting to the Steering Committee.
     - **EU AI Act subgroup** is a sub-working group reporting into the Architecture working
       group, focused on aligning Appia's specifications with EU AI Act requirements.
-    - **Marketing committee** functions as an extension of the Steering Committee, operating
-      under its own mandate as approved by the Steering Committee — it doesn't have a separate
-      charter of its own.
+    - **Communications, Marketing, and Messaging Subcommittee (CMM)** functions as an extension
+      of the Steering Committee, operating under its own mandate as approved by the Steering
+      Committee — it doesn't have a separate charter of its own.
 
-      <!-- TODO: content pending — this description isn't sourced from the executed Project
-           Charter / Working Group Charter (the Marketing committee isn't mentioned in either);
-           confirm the exact wording against the official resolution establishing it before this
-           is treated as authoritative. -->
+      <!-- TODO: content pending — name confirmed, but this description of how the CMM operates
+           isn't sourced from the executed Project Charter / Working Group Charter (neither
+           mentions it); confirm the wording against the official resolution establishing it
+           before treating it as authoritative. -->
     - **Advisory board** brings academia, government, and civil-society perspectives into the
       work. It's non-member and has no vote — it sits outside the formal reporting line shown
       above, not underneath the Steering Committee.
