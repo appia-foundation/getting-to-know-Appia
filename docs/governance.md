@@ -116,16 +116,14 @@ vote, and sits outside the chain above.
 
     This page is an orientation, not a substitute for the governing documents. For the precise,
     binding language, see the executed
-    [membership agreement and Working Group Charter](https://github.com/appia-foundation/membership-agreement-and-WG-charter):
+    [Membership Agreement Package](https://github.com/appia-foundation/membership-agreement-and-WG-charter):
 
-    - **Project Charter** — establishes the Steering Committee, membership levels, and
-      decision-making rules.
-    - **Working Group Charter** — establishes each Working Group's scope and the copyright/patent
-      choices summarized above.
-    - **Appendix A: Traditional Mode Governance** — the full decision-making and appeals process.
-    - **Appendix B: Traditional Mode Intellectual Property Policy Options** — the full copyright
-      and patent terms.
-
-    <!-- TODO: content pending — link each document individually once we can confirm the exact
-         file paths within the membership-agreement-and-WG-charter repo (it's private, so this
-         session couldn't browse its structure to check). -->
+    - **[Project Charter](https://github.com/appia-foundation/membership-agreement-and-WG-charter#2-project-charter)**
+      — establishes the Steering Committee, membership levels, and decision-making rules.
+    - **[Working Group Charter](https://github.com/appia-foundation/membership-agreement-and-WG-charter#3-working-group-charter)**
+      — establishes each Working Group's scope and the copyright/patent choices summarized above.
+    - **Appendix A: Traditional Mode Governance** and **Appendix B: Traditional Mode
+      Intellectual Property Policy Options** — the full decision-making, appeals, copyright, and
+      patent terms; both are sections within the
+      [executed charter document](https://github.com/appia-foundation/membership-agreement-and-WG-charter/blob/main/APPIA_Charter.pdf)
+      rather than separate files.
