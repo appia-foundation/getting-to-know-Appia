@@ -11,17 +11,17 @@ where it lives at each stage, who can merge, and what happens when a change is p
         !!! warning "Hosting requirement"
 
             Any Google Doc created for Appia Foundation collaboration must be hosted in the
-            appropriate **Appia Google Drive** — not on a member's local drive or personal
-            account. Each
-            working group has its own designated area within the Drive, with a naming schema
-            members are asked to follow. This keeps collaboration open to all members and
-            removes any barrier to entry that comes with content sitting outside shared space.
+            appropriate **Appia Foundation Google Drive** — not on a member's local drive or
+            personal account. Each working group has its own designated area within the Drive,
+            with a naming schema members are asked to follow. This keeps collaboration open to
+            all members and removes any barrier to entry that comes with content sitting outside
+            shared space.
 
             This applies to **any document** discussed in meetings or circulated by email too —
-            it must live in the Appia Google Drive so any member can access what's been raised,
-            not just those who were in the room or on the thread.
+            it must live in the Appia Foundation Google Drive so any member can access what's
+            been raised, not just those who were in the room or on the thread.
 
-            If you don't have access to the Appia Google Drive, contact the
+            If you don't have access to the Appia Foundation Google Drive, contact the
             [Slack help desk channel](https://appia-project.slack.com/archives/C0ARD1X091D) or
             email [helpdesk@appiafoundation.org](mailto:helpdesk@appiafoundation.org) — you'll
             get a response either way.
