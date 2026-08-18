@@ -1,12 +1,12 @@
 # Governance
 
-Welcome — if this is your first week with Appia, start here. This page is a fast, plain-language
-orientation to how the project is governed: who sits where, who approves what, and where your
-own contribution would fit. It's deliberately not exhaustive and not a legal reference — for the
-exact terms, see [Where to find the exact terms](#where-to-find-the-exact-terms) at the bottom of
-this page.
+Welcome — if this is your first week with the Appia Foundation, start here. This page is a fast,
+plain-language orientation to how the project is governed: who sits where, who approves what, and
+where your own contribution would fit. It's deliberately not exhaustive and not a legal reference
+— for the exact terms, see [Where to find the exact terms](#where-to-find-the-exact-terms) at the
+bottom of this page.
 
-## How Appia is governed
+## How the Appia Foundation is governed
 
 ```mermaid
 flowchart TD
@@ -36,9 +36,10 @@ vote, and sits outside the chain above.
 
 ??? note "Governance breakdown"
 
-    - **Joint Development Foundation Projects, LLC (JDF)** hosts Appia as an independent project
-      series. JDF's role is limited to confirming Appia's activities conform with JDF's
-      non-profit status and policies — it doesn't direct Appia's day-to-day work.
+    - **Joint Development Foundation Projects, LLC (JDF)** hosts the Appia Foundation as an
+      independent project series. JDF's role is limited to confirming the Foundation's
+      activities conform with JDF's non-profit status and policies — it doesn't direct the
+      Foundation's day-to-day work.
     - **Appia project** is the project series itself, established under the JDF Project Charter.
     - **Steering Committee** governs the project and approves Final Deliverables. Each Steering
       Member designates one participant to sit on it.
@@ -49,6 +50,11 @@ vote, and sits outside the chain above.
     - **Marketing committee** functions as an extension of the Steering Committee, operating
       under its own mandate as approved by the Steering Committee — it doesn't have a separate
       charter of its own.
+
+      <!-- TODO: content pending — this description isn't sourced from the executed Project
+           Charter / Working Group Charter (the Marketing committee isn't mentioned in either);
+           confirm the exact wording against the official resolution establishing it before this
+           is treated as authoritative. -->
     - **Advisory board** brings academia, government, and civil-society perspectives into the
       work. It's non-member and has no vote — it sits outside the formal reporting line shown
       above, not underneath the Steering Committee.
@@ -96,8 +102,9 @@ vote, and sits outside the chain above.
       Attribution-NoDerivatives 4.0 International, unless the Steering Committee designates
       another license.
     - **Patents: International Mode** — Final Deliverables follow the Common Patent Policy used
-      by ITU-T/ITU-R/ISO/IEC, adapted to reference Appia instead. There's a standard process for
-      excluding specific patent claims (a 30-day exclusion window opens automatically once a
+      by ITU-T/ITU-R/ISO/IEC, adapted to reference the Appia Foundation instead. There's a
+      standard process for excluding specific patent claims (a 30-day exclusion window opens
+      automatically once a
       Draft Deliverable is Working Group Approved).
 
     None of this is the full text — see below for where to read the actual terms.
