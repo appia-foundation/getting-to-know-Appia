@@ -40,7 +40,8 @@ vote, and sits outside the chain above.
       independent project series. JDF's role is limited to confirming the Foundation's
       activities conform with JDF's non-profit status and policies — it doesn't direct the
       Foundation's day-to-day work.
-    - **Appia project** is the project series itself, established under the JDF Project Charter.
+    - **The Appia Foundation project** is the project series itself, established under the JDF
+      Project Charter.
     - **Steering Committee** governs the project and approves Final Deliverables. Each Steering
       Member designates one participant to sit on it.
     - **Architecture and Foundational Specifications Working Group** develops Appia's overall
@@ -61,8 +62,8 @@ vote, and sits outside the chain above.
 
 ??? note "Who's who"
 
-    Appia's Project Charter defines a few membership levels — you'll see these terms used
-    throughout the project, so it's worth knowing them up front:
+    The Appia Foundation's Project Charter defines a few membership levels — you'll see these
+    terms used throughout the project, so it's worth knowing them up front:
 
     - **Steering Member** — a Member who may participate in every Working Group and (unless
       waived) designates a representative to the Steering Committee.
@@ -90,8 +91,8 @@ vote, and sits outside the chain above.
 ??? note "The specification framework, briefly"
 
     The Architecture and Foundational Specifications Working Group operates under a specific set
-    of choices from Appia's Working Group Charter. In brief, so you know the shape of what
-    you're agreeing to by contributing — not the full terms:
+    of choices from the Appia Foundation's Working Group Charter. In brief, so you know the shape
+    of what you're agreeing to by contributing — not the full terms:
 
     - **Traditional Mode governance** — the working group follows the standard JDF governance
       rules (Consensus, then Supermajority Vote if needed) rather than the alternative

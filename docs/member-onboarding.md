@@ -18,18 +18,18 @@ to expect.
        Based on the working group(s) you selected, you'll be invited to join them.
 
     3. **Receive a Slack invitation.**
-       This grants access to the Appia Slack community.
+       This grants access to the Appia Foundation Slack community.
 
     4. **Receive Google Drive access.**
        You'll be given access to the Drive(s) for your working group(s).
 
     5. **Receive GitHub access.**
-       This grants access to all Appia GitHub repositories. GitHub is the primary platform for
-       working group activity, so this step is required. If you don't already have a GitHub
-       account, you'll be sent a link to create one — Appia Foundation staff and the project
-       manager can set aside time to help anyone unfamiliar with GitHub get oriented.
+       This grants access to all Appia Foundation GitHub repositories. GitHub is the primary
+       platform for working group activity, so this step is required. If you don't already have
+       a GitHub account, you'll be sent a link to create one — Appia Foundation staff and the
+       project manager can set aside time to help anyone unfamiliar with GitHub get oriented.
 
-    6. **Join Appia's social community.**
+    6. **Join the Appia Foundation's social community.**
 
         [:fontawesome-brands-x-twitter: X (Twitter)](https://x.com/appiafoundation){ .md-button }
         [:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/company/appia-foundation/){ .md-button }
